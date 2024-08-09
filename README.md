@@ -6,7 +6,7 @@ Employee Management is a web app built with Spring Boot 3, Thymeleaf, and Postgr
 ## Features
 - **Role-Based Access:** Different access levels for admins and employees.
 - **Admin Features:** Add, view, update, and delete employee records.
-- **Employee Features:** View and update personal information.
+- **Employee Features:** View personal information.
 - **Form Validation:** Checks for correct input, especially for passwords.
 - **Custom Success Messages:** Different messages and actions for admins and employees.
 
