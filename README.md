@@ -19,18 +19,15 @@ _The login page where users enter their credentials._
 
 **Admin Dashboard:**
 
-![Admin Dashboard](path/to/admin-dashboard-screenshot.png)  
+![Screenshot (132)](https://github.com/user-attachments/assets/8fa0d856-5bb0-4b34-8283-81e4ad1ac93d)
+![Screenshot (133)](https://github.com/user-attachments/assets/ec87f46d-05cc-48c1-b0a8-c3264a122408)
 _The admin dashboard for managing employee records._
+_The list of employees visible to the admin._
 
 **Employee Profile:**
 
-![Employee Profile](path/to/employee-profile-screenshot.png)  
+![Screenshot (131)](https://github.com/user-attachments/assets/95bdb730-3d7c-48d6-af94-2cd7e53c567e)
 _The employee profile page where users can view and update their details._
-
-**Employee List:**
-
-![Employee List](path/to/employee-list-screenshot.png)  
-_The list of employees visible to the admin._
 
 **Home Page:**
 
@@ -44,12 +41,12 @@ _The page where new users can register._
 
 **Update Page for Admin:**
 
-![Admin Update Page](path/to/admin-update-screenshot.png)  
+![Screenshot (123)](https://github.com/user-attachments/assets/24b964f6-1097-4f92-a92d-d439a32dfddd)
 _The page where admins can update employee details._
 
 **Add Page for Admin:**
 
-![Admin Add Page](path/to/admin-add-screenshot.png)  
+![Screenshot (124)](https://github.com/user-attachments/assets/779f3245-4e21-4603-b26a-d479cf0586e7)
 _The page where admins can add new employees._
 
 
