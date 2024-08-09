@@ -14,5 +14,5 @@ Employee Management is a web app built with Spring Boot 3, Thymeleaf, and Postgr
 - **Backend:** Spring Boot 3
 - **Frontend:** Thymeleaf
 - **Database:** PostgreSQL
-- **Build Tool:** Maven/Gradle (depending on your choice)
+- **Build Tool:** Maven
 - **Version Control:** Git
