@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-header {
+    background: #6a11cb;
+    color: #fff;
+    border-radius: 15px 15px 0 0;
+}
+.card-body {
+    background: #fff;
+    color: #000;
+    border-radius: 0 0 15px 15px;
+}
+.btn-primary {
+    background-color: #6a11cb;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #2575fc;
+}
+.form-label {
+    font-weight: bold;
+}
+.text-danger {
+    font-size: 0.9em;
+}
+.alert-info {
+    background-color: #cce5ff;
+    color: #004085;
+    border: none;
+}
+.alert {
+    margin-bottom: 20px;
+}
+.fixed-top {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
